@@ -18,7 +18,7 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
+hello
 
 
 ==========
@@ -28,7 +28,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
+hello there
 
 
 ==========
@@ -38,7 +38,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+> 
 
 
 ==========
@@ -56,7 +56,7 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
+good mornin'
 
 
 ==========
@@ -113,8 +113,8 @@ Write the command you used below.  Also copy and paste the output below.
 
 Write the command you used to determine your directory.  Also, copy and paste the output below.
 ----------
-
-
+pwd
+/Users/student
 
 ==========
 12. If you're not in your home directory, change to it (use the shortcut).
