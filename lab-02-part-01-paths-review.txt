@@ -19,13 +19,13 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-
+/Users/student or ~
 
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
 ----------
-
+/Users/student/Desktop
 
 
 ==========
